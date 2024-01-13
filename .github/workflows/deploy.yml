@@ -30,6 +30,8 @@ jobs:
           cache: npm 
       - name: Setup Pages
         uses: actions/configure-pages@v3
+      - name: Install d
+        run: npm install
       - name: Install dependencies
         run: npm ci
       - name: Build with VitePress
