@@ -4,7 +4,6 @@
   "description": "Note the life.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "docs:dev": "vitepress dev docs",
     "docs:build": "vitepress build docs",
     "docs:preview": "vitepress preview docs"
@@ -21,6 +20,8 @@
   },
   "homepage": "https://github.com/booltcher/knowledge-base#readme",
   "devDependencies": {
+    "@iconify/json": "^2.2.168",
+    "unocss": "^0.58.3",
     "vitepress": "^1.0.0-rc.36"
   }
 }

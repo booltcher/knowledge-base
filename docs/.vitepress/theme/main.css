@@ -1,0 +1,17 @@
+:root {
+  /* --vp-home-hero-name-color: #00BFA6; */
+  /* --vp-c-brand-1: #407654;
+  --vp-c-brand-2: #5da979;
+  --vp-c-indigo-3: #407654; */
+  --vp-home-hero-name-color: #ff8120;
+  --vp-c-brand-1: #ffa220;
+  --vp-c-brand-2: #ffb34a;
+  --vp-c-indigo-3: #fc9b14;
+}
+
+.VPContent {
+  background-image: url("/grid-light.svg");
+}
+.dark .VPContent {
+  background-image: url("/grid-dark.svg");
+}

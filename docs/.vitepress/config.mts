@@ -1,31 +1,45 @@
 import { defineConfig } from "vitepress";
+import Unocss from 'unocss/vite'
 
-// https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "My Awesome Project",
-  description: "A VitePress Site",
+  head: [['link', { rel: 'icon', href: 'web-logo.svg' }]],
+  title: "Booltcher's knowledge base",
+  description: "编程/工具/笔记/兴趣",
   base: "/knowledge-base/",
-  srcDir: "../src",
   cleanUrls: true,
+  appearance: "dark",
+  markdown: {
+    lineNumbers: true,
+  },
   themeConfig: {
-    // https://vitepress.dev/reference/default-theme-config
+    outline: 'deep',
+    logo: "web-logo.svg",
+    externalLinkIcon: true,
     nav: [
-      { text: "Home", link: "/" },
-      { text: "Examples", link: "/markdown-examples" },
+      { text: "🛖 主页", link: "/" },
+      { text: "🌈 不止编程", link: "/markdown-examples" },
+      {
+        text: '⌨️ 键指如飞',
+        link: "/src/tools/flykey/vim/vim-base"
+      }
     ],
 
     sidebar: [
-      {
-        text: "Examples",
-        items: [
-          { text: "Markdown Examples", link: "/test/markdown-examples" },
-          { text: "Runtime API Examples", link: "/test/api-examples" },
-        ],
-      },
+      // {
+      //   text: "Examples",
+      //   items: [
+      //     { text: "Markdown Examples", link: "/test/markdown-examples" },
+      //     { text: "Runtime API Examples", link: "/test/api-examples" },
+      //   ],
+      // },
     ],
-
     socialLinks: [
-      { icon: "github", link: "https://github.com/vuejs/vitepress" },
+      { icon: "github", link: "https://github.com/booltcher/knowledge-base" },
+    ],
+  },
+  vite: {
+    plugins: [
+      Unocss(),
     ],
   },
 });
