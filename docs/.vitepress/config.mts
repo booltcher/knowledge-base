@@ -16,7 +16,7 @@ export default defineConfig({
     logo: "web-logo.svg",
     externalLinkIcon: true,
     nav: [
-      { text: "🛖 主页", link: "/" },
+      { text: "主页", link: "/" },
       { text: "🌈 不止编程", link: "/markdown-examples" },
       {
         text: '⌨️ 键指如飞',

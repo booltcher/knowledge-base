@@ -21,7 +21,10 @@
   "homepage": "https://github.com/booltcher/knowledge-base#readme",
   "devDependencies": {
     "@iconify/json": "^2.2.168",
+    "@types/lodash": "^4.14.202",
+    "lodash": "^4.17.21",
     "unocss": "^0.58.3",
     "vitepress": "^1.0.0-rc.36"
-  }
+  },
+  "dependencies": {}
 }

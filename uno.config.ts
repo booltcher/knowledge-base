@@ -8,7 +8,11 @@ import {
 } from 'unocss'
 
 export default defineConfig({
-  rules: [],
+  rules: [
+    ["bg-primary", { 'background-color': "#ffa220" }],
+    ["border-primary", { 'border': "1px solid #ffa220" }],
+    ["color-primary", { 'color': "#ffa220" }],
+  ],
   presets: [
     presetUno(),
     presetIcons({

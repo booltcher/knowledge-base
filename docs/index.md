@@ -1,13 +1,12 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
-  name: "Booltcher's knowledge base"
+  name: Booltcher's knowledge base
   text: "编程/工具/笔记/兴趣"
   image:
     src: /developer.svg
-    alt: Booltcher
+    alt: Booltcher's knowledge base
   tagline: 仙道贵生 无量度人
   actions:
     - theme: brand
@@ -93,7 +92,3 @@ features:
       width: 20px
       height: 20px
 ---
-
-<script setup>
-
-</script>
