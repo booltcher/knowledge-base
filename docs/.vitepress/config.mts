@@ -1,5 +1,6 @@
 import { defineConfig } from "vitepress";
 import Unocss from 'unocss/vite'
+import { github } from "./meta";
 
 export default defineConfig({
   head: [['link', { rel: 'icon', href: 'web-logo.svg' }]],
@@ -8,10 +9,20 @@ export default defineConfig({
   base: "/knowledge-base/",
   cleanUrls: true,
   appearance: "dark",
+  lastUpdated: true,
   markdown: {
     lineNumbers: true,
   },
+  locales: {
+    root: { label: '简体中文', lang: 'zh-CN' },
+  },
   themeConfig: {
+    lastUpdatedText: '最后一次更新于',
+    docFooter: {
+      prev: '上一篇',
+      next: '下一篇',
+    },
+    outlineTitle: '大纲',
     outline: 'deep',
     logo: "web-logo.svg",
     externalLinkIcon: true,
@@ -24,18 +35,13 @@ export default defineConfig({
       }
     ],
 
-    sidebar: [
-      // {
-      //   text: "Examples",
-      //   items: [
-      //     { text: "Markdown Examples", link: "/test/markdown-examples" },
-      //     { text: "Runtime API Examples", link: "/test/api-examples" },
-      //   ],
-      // },
-    ],
+    sidebar: [],
     socialLinks: [
-      { icon: "github", link: "https://github.com/booltcher/knowledge-base" },
+      { icon: "github", link: `${github}/knowledge-base` },
     ],
+    footer: {
+      message: `交个朋友互相进步吧？Wechat: _booltcher。或者欢迎 <a target="_blank" style="color: var(--vp-c-brand)" href="${github}">star ⭐</a> 鼓励一下！`,
+    },
   },
   vite: {
     plugins: [
