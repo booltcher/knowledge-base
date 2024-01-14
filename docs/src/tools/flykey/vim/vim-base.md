@@ -1,11 +1,11 @@
 ---
 outline: [2, 3]
-
-# customized frontmatter
 tags: Tools Vim
 publishDate: 2023/02/24
 ---
 # Vim（一） 基础与普通模式
+
+<!-- <DocHeader /> -->
 
 ## 模式
 

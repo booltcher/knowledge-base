@@ -1,17 +1,18 @@
 <script setup>
 import { reactive, computed } from "vue";
 import { useData } from "vitepress";
-import { tagRenderer } from "../helpers/tagRenderer";
-import { getUnknownValue } from "../helpers/getUnknownValue";
-import { getRelativeTime } from "../helpers/date";
+import { tagRenderer } from "../../helpers/tagRenderer";
+import { getUnknownValue } from "../../helpers/getUnknownValue";
+import { getRelativeTime } from "../../helpers/date";
 import Tags from "./Tags.vue";
+
+const { timeToRead } = defineProps(['timeToRead'])
 
 const pageData = useData();
 const { frontmatter, page } = pageData;
-const tags = reactive(tagRenderer(frontmatter.value.tags));
+const headerTags = reactive(tagRenderer(frontmatter.value.tags));
 
 let seenCount = 1201;
-let timeToRead = 10;
 
 const lastUpdatedDate = computed(() => getRelativeTime(page.value.lastUpdated));
 
@@ -40,7 +41,7 @@ let headAttributes = reactive([
 </script>
 
 <template>
-  <div class="pb-4">
+  <div class="mt-4">
     <div class="flex gap-6 flex-items-center mb-2">
       <div
         class="flex gap-2 flex-items-center color-gray"
@@ -54,7 +55,7 @@ let headAttributes = reactive([
     <div class="flex gap-2 flex-items-center">
       <div class="i-ph:tag-bold color-gray"></div>
       <div class="flex gap-2 flex-items-center">
-        <Tags :tags="tags" />
+        <Tags :tags="headerTags" />
       </div>
     </div>
   </div>

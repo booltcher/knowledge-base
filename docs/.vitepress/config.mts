@@ -2,6 +2,7 @@ import { defineConfig } from "vitepress";
 import Unocss from 'unocss/vite'
 import { github } from "./meta";
 import sidebars from "./theme/sidebars"
+import { MarkdownTransformer } from "./plugins/markdownTransformer";
 
 export default defineConfig({
   head: [['link', { rel: 'icon', href: 'web-logo.svg' }]],
@@ -45,6 +46,7 @@ export default defineConfig({
   },
   vite: {
     plugins: [
+      MarkdownTransformer(),
       Unocss(),
     ],
   },

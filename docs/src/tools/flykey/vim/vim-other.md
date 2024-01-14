@@ -3,6 +3,7 @@ tags: Tools Vim
 publishDate: 2023/02/24
 ---
 # Vim（二）其他模式下的操作
+<!-- <DocHeader /> -->
 ## 插入模式下的操作
 
 - ctrl + r {number} 粘贴寄存器 number 里的内容
