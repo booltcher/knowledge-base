@@ -3,7 +3,7 @@
 
 /* customized styles */
 .VPContent {
-  background-image: url("/grid-light.svg");
+  /* background-image: url("/grid-light.svg"); */
 }
 .dark .VPContent {
   background-image: url("/grid-dark.svg");

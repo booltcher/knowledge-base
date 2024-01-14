@@ -1,6 +1,7 @@
 import { defineConfig } from "vitepress";
 import Unocss from 'unocss/vite'
 import { github } from "./meta";
+import sidebars from "./theme/sidebars"
 
 export default defineConfig({
   head: [['link', { rel: 'icon', href: 'web-logo.svg' }]],
@@ -34,8 +35,7 @@ export default defineConfig({
         link: "/src/tools/flykey/vim/vim-base"
       }
     ],
-
-    sidebar: [],
+    sidebar: sidebars(),
     socialLinks: [
       { icon: "github", link: `${github}/knowledge-base` },
     ],

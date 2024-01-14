@@ -10,5 +10,5 @@ dayjs.extend(relativeTime)
 
 export const getRelativeTime = (date?: Date | number) => {
   if (!date) return UNKNOWN_VALUE
-  return dayjs().utc().local().fromNow()
+  return dayjs(date).utc().local().fromNow()
 }

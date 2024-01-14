@@ -1,5 +1,9 @@
 ---
 outline: [2, 3]
+
+# customized frontmatter
+tags: Tools Vim
+publishDate: 2023/02/24
 ---
 # Vim（一） 基础与普通模式
 
@@ -11,7 +15,7 @@ outline: [2, 3]
 - 命令模式 : 可在命令行中执行外部的命令
 
 ## 模式互转
-- Normal - Insert: 小写以字符为单位，大写以行为单位
+- Normal -> Insert: 小写以字符为单位，大写以行为单位
   - i 光标前插入
   - I 行首插入
   - a 光标后插入
@@ -20,10 +24,10 @@ outline: [2, 3]
   - O 上一行插入
   - s 删除当前字符并进入插入模式
   - S 删除当前行并进入插入模式
-- Insert - Normal: esc / jj / ctrl [
-- normal - visual: v
+- Insert -> Normal: esc / jj / ctrl [
+- Normal -> Visual: v
   - gv 重复上次的选择区域
-- normal - command: 输入冒号
+- Normal -> Command: 输入冒号
 
 ## 普通模式下的操作
 ### 文本对象

@@ -1,3 +1,7 @@
+---
+tags: Tools Vim
+publishDate: 2023/02/24
+---
 # Vim（三）VS Code下Vim的插件
 
 ---

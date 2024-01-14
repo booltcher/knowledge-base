@@ -1,7 +1,6 @@
 <script setup>
 import { reactive, computed } from "vue";
 import { useData } from "vitepress";
-import dayjs from "dayjs";
 import { tagRenderer } from "../helpers/tagRenderer";
 import { getUnknownValue } from "../helpers/getUnknownValue";
 import { getRelativeTime } from "../helpers/date";
@@ -9,11 +8,9 @@ import Tags from "./Tags.vue";
 
 const pageData = useData();
 const { frontmatter, page } = pageData;
-console.log('pageData', pageData)
 const tags = reactive(tagRenderer(frontmatter.value.tags));
 
 let seenCount = 1201;
-let publishDate = "2023/02/21";
 let timeToRead = 10;
 
 const lastUpdatedDate = computed(() => getRelativeTime(page.value.lastUpdated));
@@ -22,7 +19,7 @@ let headAttributes = reactive([
   {
     key: "publishDate",
     iconClass: "i-solar:calendar-outline",
-    value: `发表于${getUnknownValue(publishDate)}`,
+    value: `发表于${getUnknownValue(frontmatter.value.publishDate)}`,
   },
   {
     key: "lastUpdatedDate",
@@ -43,8 +40,8 @@ let headAttributes = reactive([
 </script>
 
 <template>
-  <div class="py-4">
-    <div class="flex gap-6 flex-items-center mb-2 pt-4">
+  <div class="pb-4">
+    <div class="flex gap-6 flex-items-center mb-2">
       <div
         class="flex gap-2 flex-items-center color-gray"
         v-for="attr in headAttributes"
