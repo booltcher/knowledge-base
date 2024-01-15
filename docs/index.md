@@ -10,7 +10,7 @@ hero:
   tagline: 仙道贵生 无量度人
   actions:
     - theme: brand
-      text: 不只编程
+      text: 不止编程
       link: /test/api-examples
     - theme: alt
       text: 阅读最新
@@ -51,17 +51,9 @@ features:
       alt: React
       width: 20px
       height: 20px
-  - title: Network
+  - title: 架构
     link: /src/test/markdown-examples
-    details: 协议，协议，还是协议
-    icon:
-      src: /logos/spider-man-4.svg
-      alt: HTTP,HTTPS,TCP/IP
-      width: 20px
-      height: 20px
-  - title: Build & DevOps
-    link: /src/test/markdown-examples
-    details: "构建，运维"
+    details: "构建，运维，网络，算法，概念"
     icon:
       src: /logos/webpack-icon.svg
       alt: Webpack,Docker
@@ -92,3 +84,10 @@ features:
       width: 20px
       height: 20px
 ---
+
+<div>
+  本文总阅读量 <span id="busuanzi_page_pv"></span> 次
+  本文总访客量 <span id="busuanzi_page_uv"></span> 人
+  本站总访问量 <span id="busuanzi_site_pv"></span> 次
+  本站总访客数 <span id="busuanzi_site_uv"></span> 人
+</div>
