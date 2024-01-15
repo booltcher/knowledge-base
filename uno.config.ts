@@ -12,6 +12,7 @@ export default defineConfig({
     ["bg-primary", { 'background-color': "#ffa220" }],
     ["border-primary", { 'border': "1px solid #ffa220" }],
     ["color-primary", { 'color': "#ffa220" }],
+    ["text-spacing", { 'letter-spacing': "2px" }],
   ],
   presets: [
     presetUno(),
