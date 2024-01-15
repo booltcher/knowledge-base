@@ -85,9 +85,9 @@ features:
       height: 20px
 ---
 
-<div>
-  本文总阅读量 <span id="busuanzi_page_pv"></span> 次
-  本文总访客量 <span id="busuanzi_page_uv"></span> 人
+<div class="flex flex-items-center w-full justify-center mt-12 pb-12 text-3">
+  本文总阅读量 <span id="busuanzi_page_pv"></span> 次 
+  本文总访客量 <span id="busuanzi_page_uv"></span> 人 
   本站总访问量 <span id="busuanzi_site_pv"></span> 次
   本站总访客数 <span id="busuanzi_site_uv"></span> 人
 </div>

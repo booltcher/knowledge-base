@@ -6,7 +6,7 @@ import { MarkdownTransformer } from "./plugins/markdownTransformer";
 
 export default defineConfig({
   head: [['link', { rel: 'icon', href: 'web-logo.svg' }]],
-  title: "Booltcher's knowledge base",
+  title: "Knowledge base",
   description: "编程/工具/笔记/兴趣",
   base: "/knowledge-base/",
   cleanUrls: true,

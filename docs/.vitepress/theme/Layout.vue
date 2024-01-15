@@ -6,7 +6,6 @@ const { Layout } = DefaultTheme;
 
 <template>
   <Layout>
-    <template #doc-before>
-    </template>
+    <template #not-found> 404 </template>
   </Layout>
 </template>

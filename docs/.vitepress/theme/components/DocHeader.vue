@@ -27,11 +27,11 @@ let headAttributes = reactive([
     iconClass: "i-solar:adhesive-plaster-2-outline",
     value: `最后更新于${lastUpdatedDate.value}`,
   },
-  {
-    key: "seenCount",
-    iconClass: "i-solar:eye-outline",
-    value: `${getUnknownValue(seenCount).toLocaleString()}`,
-  },
+  // {
+  //   key: "seenCount",
+  //   iconClass: "i-solar:eye-outline",
+  //   value: `${getUnknownValue(seenCount).toLocaleString()}`,
+  // },
   {
     key: "timeToRead: ",
     iconClass: "i-solar:clock-circle-outline",

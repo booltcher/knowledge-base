@@ -1,5 +1,5 @@
 export default {
-  text: '键指如飞',
+  text: '⌨️ 键指如飞',
   collapsed: false,
   items: [
     { text: 'Vim（一）基础与普通模式', link: '/src/tools/flykey/vim/vim-base' },
