@@ -10,15 +10,14 @@ hero:
   tagline: 仙道贵生 无量度人
   actions:
     - theme: brand
+      text: 开始阅读
+      link: /test/api-examples
+    - theme: alt
       text: 不止编程
       link: /test/api-examples
     - theme: alt
-      text: 阅读最新
-      link: /test/markdown-examples
-    - theme: alt
       text: 网站收藏
-      link: /test/markdown-examples
-
+      link: /src/bookmarks/index
 features:
   - title: JavaScript
     link: /src/test/markdown-examples
@@ -85,9 +84,9 @@ features:
       height: 20px
 ---
 
-<div class="flex flex-items-center w-full justify-center mt-12 pb-12 text-3">
+<!-- <div class="flex flex-items-center w-full justify-center mt-12 pb-12 text-3">
   本文总阅读量 <span id="busuanzi_page_pv"></span> 次 
   本文总访客量 <span id="busuanzi_page_uv"></span> 人 
   本站总访问量 <span id="busuanzi_site_pv"></span> 次
   本站总访客数 <span id="busuanzi_site_uv"></span> 人
-</div>
+</div> -->
