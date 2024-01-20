@@ -22,10 +22,12 @@
   "devDependencies": {
     "@iconify/json": "^2.2.168",
     "@types/lodash": "^4.14.202",
+    "@unocss/preset-icons": "^0.58.3",
     "busuanzi.pure.js": "^1.0.3",
     "dayjs": "^1.11.10",
     "lodash": "^4.17.21",
     "unocss": "^0.58.3",
+    "unplugin-icons": "^0.18.2",
     "unplugin-vue-components": "^0.26.0",
     "vitepress": "^1.0.0-rc.36"
   }

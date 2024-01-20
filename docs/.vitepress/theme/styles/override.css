@@ -488,8 +488,8 @@
   --vp-home-hero-name-color: transparent;
   --vp-home-hero-name-background: linear-gradient(315deg, #42d392 25%, #647eff 66%, #13bdce 100%);
 
-  --vp-home-hero-image-background-image: linear-gradient(#9aabff, #ffc63a60, #52ce6360);
-  /* --vp-home-hero-image-background-image: linear-gradient(#fecb6ccf, #fecb6ccf, #fecb6ccf); */
+  /* --vp-home-hero-image-background-image: linear-gradient(#9aabff, #ffc63a60, #52ce6360); */
+  --vp-home-hero-image-background-image: linear-gradient(#fecb6ccf, #fecb6ccf, #fecb6ccf);
   --vp-home-hero-image-filter: blur(30px);
 }
 
