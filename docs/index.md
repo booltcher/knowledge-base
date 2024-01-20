@@ -15,9 +15,9 @@ hero:
     - theme: alt
       text: 不止编程
       link: /test/api-examples
-    - theme: alt
-      text: 网站收藏
-      link: /src/bookmarks/index
+    # - theme: alt
+    #   text: 网站收藏
+    #   link: /src/bookmarks/index
 features:
   - title: JavaScript
     link: /src/test/markdown-examples

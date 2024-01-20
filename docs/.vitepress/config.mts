@@ -50,10 +50,10 @@ export default defineConfig({
         text: '⌨️ 键指如飞',
         link: "/src/tools/flykey/vim/vim-base"
       },
-      {
-        text: '🔥 网站收藏',
-        link: "/src/bookmarks/index"
-      }
+      // {
+      //   text: '🔥 网站收藏',
+      //   link: "/src/bookmarks/index"
+      // }
     ],
     sidebar: sidebars(),
     socialLinks: [
