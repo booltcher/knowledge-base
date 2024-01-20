@@ -9,9 +9,9 @@ import {
 
 export default defineConfig({
   rules: [
-    ["bg-primary", { 'background-color': "#ffa220" }],
-    ["border-primary", { 'border': "1px solid #ffa220" }],
-    ["color-primary", { 'color': "#ffa220" }],
+    ["bg-primary", { 'background-color': "#3451b2" }],
+    ["border-primary", { 'border': "1px solid #3451b2" }],
+    ["color-primary", { 'color': "#3451b2" }],
     ["text-spacing", { 'letter-spacing': "2px" }],
   ],
   presets: [

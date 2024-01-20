@@ -2,7 +2,7 @@
  * Colors: Solid
  * -------------------------------------------------------------------------- */
 
-:root {
+ :root {
   --vp-c-white: #ffffff;
   --vp-c-black: #000000;
 
@@ -64,11 +64,6 @@
   --vp-c-yellow-3: #9f6a00;
   --vp-c-yellow-soft: rgba(234, 179, 8, 0.14);
 
-  --vp-c-pink-1: #ff2e82;
-  --vp-c-pink-2: #ff4690;
-  --vp-c-pink-3: #ff6da7;
-  --vp-c-pink-soft: rgba(244, 63, 94, 0.14);
-
   --vp-c-red-1: #b8272c;
   --vp-c-red-2: #d5393e;
   --vp-c-red-3: #e0575b;
@@ -97,11 +92,6 @@
   --vp-c-yellow-2: #da8b17;
   --vp-c-yellow-3: #a46a0a;
   --vp-c-yellow-soft: rgba(234, 179, 8, 0.16);
-
-  --vp-c-pink-1: #ff2e82;
-  --vp-c-pink-2: #ff4690;
-  --vp-c-pink-3: #ff6da7;
-  --vp-c-pink-soft: rgba(244, 63, 94, 0.14);
 
   --vp-c-red-1: #f66f81;
   --vp-c-red-2: #f14158;
@@ -212,9 +202,9 @@
   --vp-c-default-3: var(--vp-c-gray-3);
   --vp-c-default-soft: var(--vp-c-gray-soft);
 
-  --vp-c-brand-1: #fb8b05; 
-  --vp-c-brand-2: #ffb34a;
-  --vp-c-brand-3: #fc9b14;
+  --vp-c-brand-1: var(--vp-c-indigo-1);
+  --vp-c-brand-2: var(--vp-c-indigo-2);
+  --vp-c-brand-3: var(--vp-c-indigo-3);
   --vp-c-brand-soft: var(--vp-c-indigo-soft);
 
   /* DEPRECATED: Use `--vp-c-brand-1` instead. */
@@ -246,12 +236,12 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-font-family-base: "Chinese Quotes", "Inter var", "Inter", ui-sans-serif,
-    system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-    "Helvetica Neue", Helvetica, Arial, "Noto Sans", sans-serif,
-    "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
-  --vp-font-family-mono: ui-monospace, SFMono-Regular, "SF Mono", Menlo, Monaco,
-    Consolas, "Liberation Mono", "Courier New", monospace;
+  --vp-font-family-base: 'Chinese Quotes', 'Inter var', 'Inter', ui-sans-serif,
+    system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto,
+    'Helvetica Neue', Helvetica, Arial, 'Noto Sans', sans-serif,
+    'Apple Color Emoji', 'Segoe UI Emoji', 'Segoe UI Symbol', 'Noto Color Emoji';
+  --vp-font-family-mono: ui-monospace, SFMono-Regular, 'SF Mono', Menlo, Monaco,
+    Consolas, 'Liberation Mono', 'Courier New', monospace;
 }
 
 /**
@@ -307,7 +297,7 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-header-anchor-symbol: "#";
+  --vp-header-anchor-symbol: '#';
 }
 
 /**
@@ -345,7 +335,7 @@
   --vp-code-copy-code-hover-border-color: var(--vp-c-divider);
   --vp-code-copy-code-hover-bg: var(--vp-c-bg);
   --vp-code-copy-code-active-text: var(--vp-c-text-2);
-  --vp-code-copy-copied-text-content: "Copied";
+  --vp-code-copy-copied-text-content: 'Copied';
 
   --vp-code-tab-divider: var(--vp-code-block-divider-color);
   --vp-code-tab-text-color: var(--vp-c-text-2);
@@ -485,12 +475,11 @@
  * -------------------------------------------------------------------------- */
 
 :root {
-  --vp-home-hero-name-color: transparent;
-  --vp-home-hero-name-background: linear-gradient(315deg, #42d392 25%, #647eff 66%, #13bdce 100%);
+  --vp-home-hero-name-color: var(--vp-c-brand-1);
+  --vp-home-hero-name-background: transparent;
 
-  /* --vp-home-hero-image-background-image: linear-gradient(#9aabff, #ffc63a60, #52ce6360); */
-  --vp-home-hero-image-background-image: linear-gradient(#fecb6ccf, #fecb6ccf, #fecb6ccf);
-  --vp-home-hero-image-filter: blur(30px);
+  --vp-home-hero-image-background-image: none;
+  --vp-home-hero-image-filter: none;
 }
 
 /**
