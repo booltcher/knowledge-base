@@ -230,9 +230,9 @@
   --vp-c-success-3: var(--vp-c-green-3);
   --vp-c-success-soft: var(--vp-c-green-soft);
 
-  --vp-c-warning-1: var(--vp-c-pink-1);
-  --vp-c-warning-2: var(--vp-c-pink-2);
-  --vp-c-warning-3: var(--vp-c-pink-3);
+  --vp-c-warning-1: var(--vp-c-yellow-1);
+  --vp-c-warning-2: var(--vp-c-yellow-2);
+  --vp-c-warning-3: var(--vp-c-yellow-3);
   --vp-c-warning-soft: var(--vp-c-yellow-soft);
 
   --vp-c-danger-1: var(--vp-c-red-1);
