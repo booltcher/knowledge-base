@@ -5,6 +5,8 @@ import busuanzi from 'busuanzi.pure.js'
 import './main.css'
 import Layout from "./Layout.vue"
 import DocHeader from "./components/DocHeader.vue"
+import BracketsText from "./components/BracketsText.vue"
+import HighlightText from "./components/HighlightText.vue"
 import { googleAnalytics } from "../plugins/googleAnalytics"
 
 export default {
@@ -20,5 +22,7 @@ export default {
       }
     }
     app.component('DocHeader', DocHeader)
+    app.component('BracketsText', BracketsText)
+    app.component('HighlightText', HighlightText)
   },
 }
