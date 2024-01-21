@@ -5,7 +5,7 @@ hero:
   name: Booltcher's knowledge base
   text: "编程/工具/笔记/兴趣"
   image:
-    src: /developer.svg
+    src: /firmware.svg
     alt: Booltcher's knowledge base
   tagline: 仙道贵生 无量度人
   actions:

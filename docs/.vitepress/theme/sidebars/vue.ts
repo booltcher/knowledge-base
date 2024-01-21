@@ -1,8 +1,9 @@
-const vueBaseChapter = {
-  text: '基础篇(Vue2.x)',
+const vueCoreChapter = {
+  text: 'Core',
   collapsed: false,
   items: [
-    { text: 'Vue组件化', link: '/src/dev/vue/vue-component' },
+    { text: 'Vue组件化基础', link: '/src/dev/vue/vue-component' },
+    { text: '🔥 组件通信', link: '/src/dev/vue/vue-interaction' },
   ],
 }
 const storeChapter = {
@@ -20,19 +21,10 @@ const routerChapter = {
   ],
 }
 
-const vue3Chapter = {
-  text: 'Vue3.x',
-  collapsed: false,
-  items: [
-    { text: 'Vue3概览', link: '/src/dev/vue/vue3-base' },
-  ],
-}
-
 export default {
   "/src/dev/vue/": [
-    vueBaseChapter,
+    vueCoreChapter,
     storeChapter,
     routerChapter,
-    vue3Chapter,
   ]
 }

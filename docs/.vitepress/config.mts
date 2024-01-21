@@ -18,6 +18,13 @@ export default defineConfig({
   lastUpdated: true,
   markdown: {
     lineNumbers: true,
+    container: {
+      tipLabel: '📌',
+      warningLabel: '🌋',
+      dangerLabel: '💡',
+      infoLabel: '📮',
+      detailsLabel: '🔖'
+    }
   },
   locales: {
     root: { label: '简体中文', lang: 'zh-CN' },
