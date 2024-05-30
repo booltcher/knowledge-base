@@ -31,6 +31,36 @@ publishDate: 2020/04/21
 - 引入
 - 交互
 
+::: tip
+Vue的编译器在遇到非原生的HTML标签时，会先将它们当做Vue组件处理，而当做自定义元素是后备处理方案。这样会使得Vue抛出一个解析组件失败的错误。
+
+![Vue warn](../../assets/vue-warin-custom-element.png)
+
+可以通过设置来告诉Vue将哪些元素当做自定义元素。
+- 不使用Vite
+  ```js
+  // 比如将所有带短横线的标签名都视为自定义元素
+  app.config.compilerOptions.isCustomElement = (tag) => tag.includes('-')
+  ```
+- 使用Vite
+  ```js
+  // vite.config.js
+  import vue from '@vitejs/plugin-vue'
+
+  export default {
+    plugins: [
+      vue({
+        template: {
+          compilerOptions: {
+            isCustomElement: (tag) => tag.includes('-')
+          }
+        }
+      })
+    ]
+  }
+  ```
+:::
+
 ## 组件技术三要素
 
 属性，事件，插槽
