@@ -4,7 +4,7 @@ tags: Vue
 publishDate: 2020/04/21
 ---
 
-# Vue 组件化
+# 组件化基础
 
 ## 什么是组件化
 
@@ -23,11 +23,9 @@ publishDate: 2020/04/21
 
 > 源码地址：`src/core/global-api/assets.js`
 
-步骤
-
-- 注册(定义)
-  - 全局注册`Vue.component()`：将用户传入的组件配置对象传入`Vue.extend()`，生成组件的构造函数，并且为每一个 Vue 实例合并添加`components`属性
-  - 内部注册`components`选项：单文件组件，vue-loader 会编译 `template` 为 `render` 函数，最终导出的依然是组件配置对象
+- 注册
+  - 全局注册: `Vue.component()`：将用户传入的组件配置对象传入`Vue.extend()`，生成组件的构造函数，并且为每一个 Vue 实例合并添加`components`属性
+  - 局部注册: `components`选项：单文件组件，vue-loader 会编译 `template` 为 `render` 函数，最终导出的依然是组件配置对象
 - 引入
 - 交互
 

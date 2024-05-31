@@ -20,23 +20,23 @@ hero:
     #   link: /src/bookmarks/index
 features:
   - title: JavaScript
-    link: /src/test/markdown-examples
-    details: 也不会别的了
+    link: /src/dev/javascript/js-data-type
+    details: 
     icon:
       src: /logos/javascript.svg
       alt: "vue"
       width: 20px
       height: 20px
   - title: CSS
-    link: /src/test/markdown-examples
+    link: /src/dev/css/bfc
     icon:
       src: /logos/css-3.svg
       alt: "vue"
       width: 20px
       height: 20px
   - title: Vue
-    link: /src/test/markdown-examples
-    details: "啊？Vue2已经不维护了？"
+    link: /src/dev/vue/vue-component
+    details: ""
     icon:
       src: /logos/vue-js-1.svg
       alt: Vue
@@ -44,7 +44,7 @@ features:
       height: 20px
   - title: React
     link: /src/test/markdown-examples
-    details: "我真就没用过类组件"
+    details: ""
     icon:
       src: /logos/react-2.svg
       alt: React

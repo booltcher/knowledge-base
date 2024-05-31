@@ -43,16 +43,16 @@ export default defineConfig({
       { text: "主页", link: "/" },
       {
         text: "编程", items: [
-          { text: 'JavaScript', link: '/src/dev/javascript' },
+          { text: 'JavaScript', link: '/src/dev/javascript/js-data-type' },
           { text: 'Vue', link: '/src/dev/vue/vue-component' },
           { text: 'React', link: '/src/dev/react/' },
-          { text: 'CSS', link: '/src/dev/css' },
+          { text: 'CSS', link: '/src/dev/css/bfc' },
           { text: '架构', link: '/src/dev/architecture' },
           { text: '业务', link: '/src/dev/solutions' },
           { text: '服务端', link: '/src/dev/server-side' },
         ],
       },
-      { text: "🌈 不止编程", link: "/markdown-examples" },
+      { text: "🌈 不止编程", link: "/src/nocode/keyboard" },
       {
         text: '⌨️ 键指如飞',
         link: "/src/tools/flykey/vim/vim-base"
