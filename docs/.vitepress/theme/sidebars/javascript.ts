@@ -2,7 +2,7 @@ const jsChapter = {
   text: 'JavaScript',
   collapsed: false,
   items: [
-    { text: '数据类型', link: '/src/javascript/js-data-type' },
+    { text: '数据类型', link: '/src/dev/javascript/js-data-type' },
   ],
 }
 
