@@ -1,5 +1,5 @@
 ---
-tags: JavaScript 代码段 设计模式
+tags: JavaScript 代码片段 设计模式
 publishDate: 2024/03/21
 ---
 

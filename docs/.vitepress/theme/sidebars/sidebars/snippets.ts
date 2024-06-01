@@ -1,10 +1,9 @@
 const jsSnippetsChapter = {
-  text: 'JavaScript代码段',
+  text: 'JavaScript代码片段',
   collapsed: false,
   items: [
     { text: '防抖', link: '/src/dev/snippets/js/debounce' },
     { text: '节流', link: '/src/dev/snippets/js/throttle' },
-    { text: '深拷贝', link: '/src/dev/js/deep-clone' },
     { text: '深冻结', link: '/src/dev/snippets/js/deepFreeze' },
     { text: '手写发布订阅', link: '/src/dev/snippets/js/pubsub' },
     { text: '手写单例模式', link: '/src/dev/snippets/js/singleton' },
@@ -24,7 +23,7 @@ const jsSnippetsChapter = {
 }
 
 const cssSnippetsChapter = {
-  text: 'CSS代码段',
+  text: 'CSS代码片段',
   collapsed: false,
   items: [
     { text: '文本溢出', link: '/src/dev/snippets/css/text-overflow' },
