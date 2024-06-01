@@ -106,7 +106,7 @@ SingleDog.getInstance = (function () {
 })();
 ```
 
-[手写单例模型](/src/dev/javascript/implement/implement-singleton)
+[手写单例模型](/src/dev/snippets/js/singleton)
 
 ## 创建型：原型模式
 

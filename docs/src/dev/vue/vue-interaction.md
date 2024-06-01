@@ -126,7 +126,7 @@ app.provide(/* 注入名 */ "message", /* 值 */ "hello!");
 - `$emit` 触发、通知
 - `$off` 解除
 
-[手写发布订阅模式](/src/dev/javascript/implement/implement-pubsub)
+[手写发布订阅模式](/src/dev/snippets/js/pubsub)
 
 ::: warning 🌋
 **注意事项：**
