@@ -21,7 +21,7 @@ export default defineConfig({
     container: {
       tipLabel: '📌',
       warningLabel: '🌋',
-      dangerLabel: '💡',
+      dangerLabel: '⚠️',
       infoLabel: '📮',
       detailsLabel: '🔖'
     }
@@ -47,20 +47,22 @@ export default defineConfig({
           { text: 'Vue', link: '/src/dev/vue/vue-component' },
           { text: 'React', link: '/src/dev/react/' },
           { text: 'CSS', link: '/src/dev/css/bfc' },
-          { text: '架构', link: '/src/dev/architecture' },
-          { text: '业务', link: '/src/dev/solutions' },
-          { text: '服务端', link: '/src/dev/server-side' },
+          { text: '架构', link: '/src/dev/advanced/builder/build-base' },
+          // { text: '应用', link: '/src/dev/solutions' },
+          // { text: '服务端', link: '/src/dev/server-side' },
+          { text: '代码段', link: '/src/dev/snippets/css/text-overflow' },
+          { text: '配置', link: '/src/dev/config/typora-theme-github' },
         ],
       },
-      { text: "🌈 不止编程", link: "/src/nocode/keyboard" },
+      { text: "🌈 不止编程", link: "/src/nocode/fun/keyboard" },
       {
         text: '⌨️ 键指如飞',
         link: "/src/tools/flykey/vim/vim-base"
       },
-      // {
-      //   text: '🔥 网站收藏',
-      //   link: "/src/bookmarks/index"
-      // }
+      {
+        text: '🪵 书签',
+        link: "/src/bookmarks/index"
+      }
     ],
     sidebar: sidebars(),
     socialLinks: [

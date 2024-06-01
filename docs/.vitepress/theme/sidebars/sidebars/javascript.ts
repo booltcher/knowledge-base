@@ -3,6 +3,7 @@ const jsChapter = {
   collapsed: false,
   items: [
     { text: '数据类型', link: '/src/dev/javascript/js-data-type' },
+    { text: '深/浅拷贝', link: '/src/dev/javascript/deep-clone' },
   ],
 }
 
@@ -18,20 +19,9 @@ const conceptChapter = {
   ],
 }
 
-const implementChapter = {
-  text: '手写',
-  collapsed: false,
-  items: [
-    { text: '手写发布订阅', link: '/src/dev/javascript/implement/implement-pubsub' },
-    { text: '手写单例模式', link: '/src/dev/javascript/implement/implement-singleton' },
-  ],
-}
-
-
 export default {
   "/src/dev/javascript/": [
     jsChapter,
     conceptChapter,
-    implementChapter,
   ]
 }

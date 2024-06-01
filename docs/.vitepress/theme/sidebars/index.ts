@@ -1,8 +1,11 @@
-import sidebarOfTools from './tools'
-import sidebarOfVue from './vue'
-import sidebarOfJS from './javascript'
-import sidebarOfCSS from './css'
-import sidebarOfOthers from './nocode'
+import sidebarOfTools from './sidebars/tools'
+import sidebarOfVue from './sidebars/vue'
+import sidebarOfJS from './sidebars/javascript'
+import sidebarOfCSS from './sidebars/css'
+import sidebarOfOthers from './sidebars/nocode'
+import sidebarOfConfig from './sidebars/config'
+import sidebarOfAdvanced from './sidebars/advanced'
+import sidebarOfSnippets from './sidebars/snippets'
 
 export default function () {
   return {
@@ -11,5 +14,8 @@ export default function () {
     ...sidebarOfVue,
     ...sidebarOfCSS,
     ...sidebarOfOthers,
+    ...sidebarOfConfig,
+    ...sidebarOfAdvanced,
+    ...sidebarOfSnippets,
   }
 }

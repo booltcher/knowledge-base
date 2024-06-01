@@ -1,6 +1,6 @@
 ---
 outline: [2, 3]
-tags: Concept Implement
+tags: JavaScript 代码段 设计模式
 publishDate: 2023/12/14
 ---
 
