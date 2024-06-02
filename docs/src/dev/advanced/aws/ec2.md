@@ -560,7 +560,6 @@ ELB 允许任何 IP 通过 HTTP 或 HTTPS 访问 80/443 所构成的安全组。
 - ALB：默认启用，无需为区间数据传输支付，只能在目标组关闭
 - NLB：默认禁用，为区间数据传输支付
 - CLB：默认禁用，无需为区间数据传输支付
-  ![跨区域平衡](aws-ec2-cross-zone-load-balance.png)
 
 ### SSL/TLS 基础
 
