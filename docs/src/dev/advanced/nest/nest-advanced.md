@@ -1183,7 +1183,7 @@ export class PetsResolver {
 }
 ```
 
-> 启动服务后，src 目录下生成了一个 schema.gql 文件。访问 http://localhost:3000/graphql，可以看到定义好的 schema
+> 启动服务后，src 目录下生成了一个 schema.gql 文件。访问 'http://localhost:3000/graphql'，可以看到定义好的 schema
 
 ```typescript
 {
