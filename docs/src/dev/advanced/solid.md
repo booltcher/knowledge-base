@@ -1,6 +1,6 @@
 ---
 outline: [2, 3]
-tags: Concept
+tags: 概念
 publishDate: 2021/04/05
 ---
 

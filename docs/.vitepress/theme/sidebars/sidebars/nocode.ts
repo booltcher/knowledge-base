@@ -3,6 +3,10 @@ const englishChapter = {
   collapsed: false,
   items: [
     { text: '简写', link: '/src/nocode/english/short' },
+    { text: '近义词', link: '/src/nocode/english/choose' },
+    { text: '连读', link: '/src/nocode/english/read' },
+    { text: '符号', link: '/src/nocode/english/sign' },
+    { text: '1368个单词就够了', link: '/src/nocode/english/1368' },
   ],
 }
 
@@ -30,7 +34,7 @@ const visualChapter = {
 
 const historyChapter = {
   text: '📜 世界',
-  collapsed: false,
+  collapsed: true,
   items: [
     { text: '大明', link: '/src/nocode/history/chinese-ming' },
     { text: '丹麦与格陵兰岛', link: '/src/nocode/history/denmark-greenland' },
@@ -45,7 +49,7 @@ const historyChapter = {
 
 const funChapter = {
   text: '🕹️ 玩',
-  collapsed: false,
+  collapsed: true,
   items: [
     { text: '客制化键盘', link: '/src/nocode/fun/keyboard' },
     { text: '积木', link: '/src/nocode/fun/brick' },

@@ -42,3 +42,6 @@ lerna-debug.log*
 docs/.vitepress/dist
 docs/.vitepress/cache
 .vitepress/cache/deps
+
+# obsidian
+.obsidian
