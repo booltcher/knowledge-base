@@ -96,6 +96,6 @@ export default defineConfig({
     ],
   },
   ignoreDeadLinks: [
-    '/localhost',
+    "http://localhost:3000/graphql",
   ]
 });
