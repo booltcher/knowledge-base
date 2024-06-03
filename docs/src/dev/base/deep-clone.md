@@ -1,5 +1,6 @@
 ---
-tags: JavaScript
+tags: 
+  - JavaScript
 publishDate: 2021/09/21
 ---
 

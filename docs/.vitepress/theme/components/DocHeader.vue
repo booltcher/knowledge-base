@@ -34,6 +34,10 @@ let headAttributes = reactive([
     value: `阅读${getUnknownValue(timeToRead)}分钟`,
   },
 ]);
+
+function handleTagClick(){
+  window.location.href = "/knowledge-base/src/custom-pages/tag-page/index";
+}
 </script>
 
 <template>
@@ -51,7 +55,7 @@ let headAttributes = reactive([
     <div class="flex gap-2 flex-items-center">
       <div class="i-ph:tag-bold color-gray"></div>
       <div class="flex gap-2 flex-items-center">
-        <Tags :tags="headerTags" />
+        <Tags :tags="headerTags" @clickItem="handleTagClick" />
       </div>
     </div>
   </div>
