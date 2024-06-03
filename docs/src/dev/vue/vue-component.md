@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: Vue
+tags: 
+  - Vue
 publishDate: 2020/04/21
 ---
 

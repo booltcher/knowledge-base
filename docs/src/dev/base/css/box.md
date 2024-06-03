@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: UI
+tags:
+  - UI
 publishDate: 2021/07/11
 ---
 

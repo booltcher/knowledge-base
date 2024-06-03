@@ -1,6 +1,9 @@
 ---
 outline: [2, 3]
-tags: JavaScript 代码片段 工具方法
+tags: 
+  - JavaScript 
+  - 代码片段 
+  - 工具方法
 publishDate: 2022/04/22
 ---
 # 解析URL的Params为对象

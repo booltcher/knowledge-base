@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: Vue
+tags: 
+  - JavaScript
 publishDate: 2023/08/24
 ---
 

@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: 构建工具
+tags: 
+  - AWS
+  - 构建工具
 publishDate: 2024/03/21
 ---
 

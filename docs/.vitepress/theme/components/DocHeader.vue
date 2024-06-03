@@ -1,19 +1,15 @@
 <script setup>
 import { reactive, computed } from "vue";
 import { useData } from "vitepress";
-import { tagRenderer } from "../../helpers/tagRenderer";
 import { getUnknownValue } from "../../helpers/getUnknownValue";
 import { getRelativeTime } from "../../helpers/date";
 import Tags from "./Tags.vue";
 
-const { timeToRead } = defineProps(['timeToRead'])
+const { timeToRead } = defineProps(["timeToRead"]);
 
 const pageData = useData();
 const { frontmatter, page } = pageData;
-const headerTags = reactive(tagRenderer(frontmatter.value.tags));
-
-let seenCount = 1201;
-
+const headerTags = reactive(frontmatter.value.tags);
 const lastUpdatedDate = computed(() => getRelativeTime(page.value.lastUpdated));
 
 let headAttributes = reactive([

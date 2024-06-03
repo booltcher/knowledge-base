@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Vue Vue-Router
+tags: 
+  - Vue 
+  - Vue Router
 publishDate: 2024/03/20
 ---
 

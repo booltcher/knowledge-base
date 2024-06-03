@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: Node
+tags: 
+  - Node
 publishDate: 2022/04/19
 ---
 

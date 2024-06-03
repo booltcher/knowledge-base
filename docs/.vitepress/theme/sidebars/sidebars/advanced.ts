@@ -32,6 +32,7 @@ const serverChapter = {
     { text: 'NestJS基础', link: '/src/dev/advanced/nest/nest-base.md' },
     { text: 'NestJS进阶', link: '/src/dev/advanced/nest/nest-advanced.md' },
     { text: 'NestJS实战', link: '/src/dev/advanced/nest/nest-usage.md' },
+    { text: '持续交付/部署', link: '/src/dev/advanced/cicd.md' },
   ],
 }
 

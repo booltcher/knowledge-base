@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: English
+tags: 
+  - English
 publishDate: 2023/01/23
 ---
 

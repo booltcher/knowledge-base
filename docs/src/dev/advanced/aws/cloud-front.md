@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: AWS
+tags: 
+  - AWS
 publishDate: 2022/03/22
 ---
 

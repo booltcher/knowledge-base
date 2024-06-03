@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Node Nest
+tags:
+  - Node
+  - Nest
 publishDate: 2022/07/23
 ---
 

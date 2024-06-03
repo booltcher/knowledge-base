@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: JavaScript 应用
+tags: 
+  - JavaScript
+  - 应用
 publishDate: 2023/02/17
 ---
 

@@ -1,6 +1,9 @@
 ---
 outline: [2, 3]
-tags: JavaScript 代码片段 工具方法
+tags: 
+  - JavaScript 
+  - 代码片段 
+  - 工具方法
 publishDate: 2021/09/21
 ---
 

@@ -1,5 +1,7 @@
 ---
-tags: Tools Vim
+tags: 
+  - Vim
+  - 工具
 publishDate: 2023/02/24
 ---
 # Vim（二）其他模式下的操作

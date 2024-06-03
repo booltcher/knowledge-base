@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Config Tools
+tags: 
+  - 配置
+  - 工具
 publishDate: 2021/01/30
 ---
 

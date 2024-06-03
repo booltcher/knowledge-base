@@ -1,6 +1,7 @@
 ---
 outline: [2, 3]
-tags: Vue
+tags: 
+  - Vue
 publishDate: 2023/03/27
 ---
 # Vue实例生命周期

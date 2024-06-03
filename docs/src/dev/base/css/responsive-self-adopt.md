@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Concept
+tags: 
+  - 概念
+  - UI
 publishDate: 2021/8/25
 ---
 # 自适应和响应式布局

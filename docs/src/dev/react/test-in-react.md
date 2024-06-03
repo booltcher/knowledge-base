@@ -1,6 +1,9 @@
 ---
 outline: [2, 3]
-tags: React Test Jest
+tags: 
+  - React
+  - Test
+  - Jest
 publishDate: 2021/08/15
 ---
 

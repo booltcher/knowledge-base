@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Vue Source-Code
+tags: 
+  - Vue
+  - 源码
 publishDate: 2021/07/10
 ---
 

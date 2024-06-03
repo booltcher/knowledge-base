@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Tools Vim
+tags:
+  - Vim
+  - 工具
 publishDate: 2023/02/24
 ---
 # Vim（一） 基础与普通模式

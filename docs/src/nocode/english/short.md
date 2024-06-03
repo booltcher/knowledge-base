@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: English 未完成
+tags: 
+	- English 
+	- 未完成
 publishDate: 2023/12/24
 ---
 # 简写

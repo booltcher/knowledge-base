@@ -1,6 +1,9 @@
 ---
 outline: [2, 3]
-tags: Vue Vue3 Source-Code
+tags: 
+  - Vue 
+  - Vue3
+  - 源码
 publishDate: 2024/01/10
 ---
 # `createApp`方法的本质

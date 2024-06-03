@@ -1,6 +1,8 @@
 ---
 outline: [2, 3]
-tags: Vue Vuex
+tags: 
+  - Vue
+  - Vuex
 publishDate: 2021/07/13
 ---
 
