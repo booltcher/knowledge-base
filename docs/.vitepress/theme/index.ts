@@ -8,15 +8,16 @@ import DocHeader from "./components/DocHeader.vue"
 import BracketsText from "./components/BracketsText.vue"
 import HighlightText from "./components/HighlightText.vue"
 import Tags from "./components/Tags.vue"
-import { googleAnalytics } from "../plugins/googleAnalytics"
+import ArticleCard from "./components/ArticleCard.vue"
+// import { googleAnalytics } from "../plugins/googleAnalytics"
 
 export default {
   extends: DefaultTheme,
   Layout,
   enhanceApp({ app, router, siteData }) {
-    googleAnalytics({
-      id: 'G-FZQ28TRF5X',
-    })
+    // googleAnalytics({
+    //   id: 'G-FZQ28TRF5X',
+    // })
     // if (inBrowser) {
     //   router.onAfterRouteChanged = (to) => {
     //     busuanzi.fetch()
@@ -26,5 +27,6 @@ export default {
     app.component('BracketsText', BracketsText)
     app.component('HighlightText', HighlightText)
     app.component('Tags', Tags)
+    app.component('ArticleCard', ArticleCard)
   },
 }

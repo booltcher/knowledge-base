@@ -56,6 +56,10 @@ export default defineConfig({
         link: "/src/tools/flykey/vim/vim-base"
       },
       {
+        text: '文章标签',
+        link: "/src/custom-pages/tag-page/index"
+      },
+      {
         text: '🪵 书签',
         link: "/src/bookmarks/index"
       }

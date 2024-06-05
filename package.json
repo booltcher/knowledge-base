@@ -6,7 +6,7 @@
   "scripts": {
     "docs:build": "vitepress build docs && node generate-tags.js",
     "docs:preview": "vitepress preview docs",
-    "generate-tags": "node generate-tags.js",
+    "gen:tags": "node generate-tags.js",
     "docs:dev": "npm run generate-tags && vitepress dev docs"
   },
   "repository": {
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/booltcher/knowledge-base#readme",
   "devDependencies": {
+    "@iconify-json/mdi": "^1.1.66",
     "@iconify/json": "^2.2.168",
     "@types/lodash": "^4.14.202",
     "@unocss/preset-icons": "^0.58.3",
@@ -28,6 +29,7 @@
     "dayjs": "^1.11.10",
     "lodash": "^4.17.21",
     "unocss": "^0.58.3",
+    "unocss-preset-animations": "^1.0.2",
     "unplugin-icons": "^0.18.2",
     "unplugin-vue-components": "^0.26.0",
     "vitepress": "^1.0.0-rc.36"

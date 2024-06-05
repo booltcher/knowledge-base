@@ -2,6 +2,9 @@ const fs = require("fs");
 const path = require("path");
 const glob = require("glob");
 const yaml = require("js-yaml");
+const getReadingTime = require("./docs/.vitepress/helpers/getReadingTime.js")
+
+const base = '/knowledge-base'
 
 const generateTags = () => {
   const tagsSet = new Set();
@@ -33,9 +36,11 @@ const generateTags = () => {
         if (frontMatter.tags) {
           frontMatter.tags.forEach((tag) => tagsSet.add(tag));
           articles.push({
-            path: filePath.replace(/\.md$/, ""),
+            path: base + filePath.replace(/\.md$/, ""),
             title,
             tags: frontMatter.tags,
+            publishDate: frontMatter.publishDate,
+            timeToRead: getReadingTime(content)
           });
         }
       } catch (e) {

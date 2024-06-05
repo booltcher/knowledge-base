@@ -39,804 +39,1314 @@
   ],
   "articles": [
     {
-      "path": "/src/tools/flykey/vim/vim-usage",
+      "path": "/knowledge-base/src/tools/flykey/vim/vim-usage",
       "title": "Vim（四）场景与用法",
       "tags": [
         "Vim",
         "工具"
-      ]
+      ],
+      "publishDate": "2023/02/24",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 635
+      }
     },
     {
-      "path": "/src/tools/flykey/vim/vim-plugin",
+      "path": "/knowledge-base/src/tools/flykey/vim/vim-plugin",
       "title": "Vim（三）VS Code下Vim的插件",
       "tags": [
         "Vim",
         "工具"
-      ]
+      ],
+      "publishDate": "2023/02/24",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 299
+      }
     },
     {
-      "path": "/src/tools/flykey/vim/vim-other",
+      "path": "/knowledge-base/src/tools/flykey/vim/vim-other",
       "title": "Vim（二）其他模式下的操作",
       "tags": [
         "Vim",
         "工具"
-      ]
+      ],
+      "publishDate": "2023/02/24",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 524
+      }
     },
     {
-      "path": "/src/tools/flykey/vim/vim-base",
+      "path": "/knowledge-base/src/tools/flykey/vim/vim-base",
       "title": "Vim（一） 基础与普通模式",
       "tags": [
         "Vim",
         "工具"
-      ]
+      ],
+      "publishDate": "2023/02/24",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": "1.6k"
+      }
     },
     {
-      "path": "/src/nocode/visual/c4d",
+      "path": "/knowledge-base/src/nocode/visual/c4d",
       "title": "C4d",
       "tags": [
         "视觉",
         "无代码"
-      ]
+      ],
+      "publishDate": "2023/02/12",
+      "timeToRead": {
+        "timeToRead": 9,
+        "words": "3.2k"
+      }
     },
     {
-      "path": "/src/nocode/visual/blender",
+      "path": "/knowledge-base/src/nocode/visual/blender",
       "title": "Blender",
       "tags": [
         "视觉",
         "无代码"
-      ]
+      ],
+      "publishDate": "2023/02/12",
+      "timeToRead": {
+        "timeToRead": 16,
+        "words": "5.4k"
+      }
     },
     {
-      "path": "/src/nocode/visual/ae",
+      "path": "/knowledge-base/src/nocode/visual/ae",
       "title": "AE",
       "tags": [
         "视觉",
         "无代码"
-      ]
+      ],
+      "publishDate": "2023/02/12",
+      "timeToRead": {
+        "timeToRead": 7,
+        "words": "2.4k"
+      }
     },
     {
-      "path": "/src/nocode/history/korean-war",
+      "path": "/knowledge-base/src/nocode/history/korean-war",
       "title": "抗美援朝",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2019/07/13",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": "1k"
+      }
     },
     {
-      "path": "/src/nocode/history/japan",
+      "path": "/knowledge-base/src/nocode/history/japan",
       "title": "小日子",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2020/02/12",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 411
+      }
     },
     {
-      "path": "/src/nocode/history/india",
+      "path": "/knowledge-base/src/nocode/history/india",
       "title": "印度",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2021/05/02",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.4k"
+      }
     },
     {
-      "path": "/src/nocode/history/denmark-greenland",
+      "path": "/knowledge-base/src/nocode/history/denmark-greenland",
       "title": "丹麦与格陵兰岛",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2020/03/05",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 323
+      }
     },
     {
-      "path": "/src/nocode/history/chinese-ming",
+      "path": "/knowledge-base/src/nocode/history/chinese-ming",
       "title": "大明",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2020/06/25",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 662
+      }
     },
     {
-      "path": "/src/nocode/history/america",
+      "path": "/knowledge-base/src/nocode/history/america",
       "title": "美国",
       "tags": [
         "历史",
         "无代码"
-      ]
+      ],
+      "publishDate": "2020/01/30",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 387
+      }
     },
     {
-      "path": "/src/nocode/fun/wood",
+      "path": "/knowledge-base/src/nocode/fun/wood",
       "title": "实木",
       "tags": [
         "无代码"
-      ]
+      ],
+      "publishDate": "2024/01/06",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 495
+      }
     },
     {
-      "path": "/src/nocode/fun/keyboard",
+      "path": "/knowledge-base/src/nocode/fun/keyboard",
       "title": "客制化键盘",
       "tags": [
         "娱乐",
         "无代码"
-      ]
+      ],
+      "publishDate": "2024/01/06",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 779
+      }
     },
     {
-      "path": "/src/nocode/fun/gundam",
+      "path": "/knowledge-base/src/nocode/fun/gundam",
       "title": "高达",
       "tags": [
         "娱乐",
         "无代码"
-      ]
+      ],
+      "publishDate": "2024/01/06",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 670
+      }
     },
     {
-      "path": "/src/nocode/fun/brick",
+      "path": "/knowledge-base/src/nocode/fun/brick",
       "title": "积木",
       "tags": [
         "娱乐",
         "无代码"
-      ]
+      ],
+      "publishDate": "2023/12/24",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 397
+      }
     },
     {
-      "path": "/src/nocode/english/sign",
+      "path": "/knowledge-base/src/nocode/english/sign",
       "title": "符号",
       "tags": [
         "English"
-      ]
+      ],
+      "publishDate": "2023/01/23",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 135
+      }
     },
     {
-      "path": "/src/nocode/english/short",
+      "path": "/knowledge-base/src/nocode/english/short",
       "title": "简写",
       "tags": [
         "English",
         "未完成"
-      ]
+      ],
+      "publishDate": "2023/12/24",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 158
+      }
     },
     {
-      "path": "/src/nocode/english/1368",
+      "path": "/knowledge-base/src/nocode/english/1368",
       "title": "1368个单词就够了",
       "tags": [
         "English",
         "阅读",
         "未完成"
-      ]
+      ],
+      "publishDate": "2023/01/23",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 871
+      }
     },
     {
-      "path": "/src/nocode/book/spite",
+      "path": "/knowledge-base/src/nocode/book/spite",
       "title": "恶意",
       "tags": [
         "阅读"
-      ]
+      ],
+      "publishDate": "2023/03/30",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 417
+      }
     },
     {
-      "path": "/src/nocode/book/secondary-growth",
+      "path": "/knowledge-base/src/nocode/book/secondary-growth",
       "title": "二次成长",
       "tags": [
         "阅读",
         "未完成"
-      ]
+      ],
+      "publishDate": "2023/06/21",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 892
+      }
     },
     {
-      "path": "/src/nocode/book/meet-unknown-me",
+      "path": "/knowledge-base/src/nocode/book/meet-unknown-me",
       "title": "遇见未知的自己",
       "tags": [
         "阅读"
-      ]
+      ],
+      "publishDate": "2023/04/06",
+      "timeToRead": {
+        "timeToRead": 17,
+        "words": "6k"
+      }
     },
     {
-      "path": "/src/nocode/book/live",
+      "path": "/knowledge-base/src/nocode/book/live",
       "title": "活着",
       "tags": [
         "阅读"
-      ]
+      ],
+      "publishDate": "2023/01/20",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 675
+      }
     },
     {
-      "path": "/src/nocode/book/kill-robin",
+      "path": "/knowledge-base/src/nocode/book/kill-robin",
       "title": "杀死一只知更鸟",
       "tags": [
         "阅读"
-      ]
+      ],
+      "publishDate": "2023/02/24",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 748
+      }
     },
     {
-      "path": "/src/dev/vue/vuex-base",
+      "path": "/knowledge-base/src/dev/vue/vuex-base",
       "title": "Vuex 基础",
       "tags": [
         "Vue",
         "Vuex"
-      ]
+      ],
+      "publishDate": "2021/07/13",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.2k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue3-watcher",
+      "path": "/knowledge-base/src/dev/vue/vue3-watcher",
       "title": "侦听器",
       "tags": [
         "Vue",
         "Vue3"
-      ]
+      ],
+      "publishDate": "2024/01/10",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 807
+      }
     },
     {
-      "path": "/src/dev/vue/vue3-create-app",
+      "path": "/knowledge-base/src/dev/vue/vue3-create-app",
       "title": "`createApp`方法的本质",
       "tags": [
         "Vue",
         "Vue3",
         "源码"
-      ]
+      ],
+      "publishDate": "2024/01/10",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 230
+      }
     },
     {
-      "path": "/src/dev/vue/vue3-composition-api",
+      "path": "/knowledge-base/src/dev/vue/vue3-composition-api",
       "title": "Composition API",
       "tags": [
         "Vue",
         "Vue3"
-      ]
+      ],
+      "publishDate": "2024/01/10",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 962
+      }
     },
     {
-      "path": "/src/dev/vue/vue3-base",
+      "path": "/knowledge-base/src/dev/vue/vue3-base",
       "title": "Vue3 改动一览",
       "tags": [
         "Vue",
         "Vue3"
-      ]
+      ],
+      "publishDate": "2024/01/10",
+      "timeToRead": {
+        "timeToRead": 6,
+        "words": "1.7k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue-vdom",
+      "path": "/knowledge-base/src/dev/vue/vue-vdom",
       "title": "Vue 中的虚拟 DOM",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.3k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue-template-compile",
+      "path": "/knowledge-base/src/dev/vue/vue-template-compile",
       "title": "模板编译",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 781
+      }
     },
     {
-      "path": "/src/dev/vue/vue-router-guard",
+      "path": "/knowledge-base/src/dev/vue/vue-router-guard",
       "title": "导航守卫",
       "tags": [
         "Vue",
         "Vue Router"
-      ]
+      ],
+      "publishDate": "2024/03/20",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 751
+      }
     },
     {
-      "path": "/src/dev/vue/vue-router-base",
+      "path": "/knowledge-base/src/dev/vue/vue-router-base",
       "title": "路由基础",
       "tags": [
         "Vue",
         "Vue Router"
-      ]
+      ],
+      "publishDate": "2021/07/26",
+      "timeToRead": {
+        "timeToRead": 6,
+        "words": "1.9k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue-responsive",
+      "path": "/knowledge-base/src/dev/vue/vue-responsive",
       "title": "响应式原理",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": "1.6k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue-mount",
+      "path": "/knowledge-base/src/dev/vue/vue-mount",
       "title": "挂载流程",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 168
+      }
     },
     {
-      "path": "/src/dev/vue/vue-key",
+      "path": "/knowledge-base/src/dev/vue/vue-key",
       "title": "Key的作用和工作原理",
       "tags": [
         "Vue"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 453
+      }
     },
     {
-      "path": "/src/dev/vue/vue-interaction",
+      "path": "/knowledge-base/src/dev/vue/vue-interaction",
       "title": "组件通信",
       "tags": [
         "Vue"
-      ]
+      ],
+      "publishDate": "2023/01/12",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": "1k"
+      }
     },
     {
-      "path": "/src/dev/vue/vue-instance-lifecycle",
+      "path": "/knowledge-base/src/dev/vue/vue-instance-lifecycle",
       "title": "Vue实例生命周期",
       "tags": [
         "Vue"
-      ]
+      ],
+      "publishDate": "2023/03/27",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 529
+      }
     },
     {
-      "path": "/src/dev/vue/vue-init",
+      "path": "/knowledge-base/src/dev/vue/vue-init",
       "title": "响应式原理",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 319
+      }
     },
     {
-      "path": "/src/dev/vue/vue-directives",
+      "path": "/knowledge-base/src/dev/vue/vue-directives",
       "title": "指令",
       "tags": [
         "Vue"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 837
+      }
     },
     {
-      "path": "/src/dev/vue/vue-diff2",
+      "path": "/knowledge-base/src/dev/vue/vue-diff2",
       "title": "Vue2 Diff算法",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2021/07/10",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 855
+      }
     },
     {
-      "path": "/src/dev/vue/vue-data",
+      "path": "/knowledge-base/src/dev/vue/vue-data",
       "title": "为什么组件的`data`必须是函数？",
       "tags": [
         "Vue",
         "源码"
-      ]
+      ],
+      "publishDate": "2020/04/21",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 324
+      }
     },
     {
-      "path": "/src/dev/vue/vue-component",
+      "path": "/knowledge-base/src/dev/vue/vue-component",
       "title": "组件化基础",
       "tags": [
         "Vue"
-      ]
+      ],
+      "publishDate": "2020/04/21",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 620
+      }
     },
     {
-      "path": "/src/dev/snippets/js/toTree",
+      "path": "/knowledge-base/src/dev/snippets/js/toTree",
       "title": "<数组> 生成树",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2021/09/21",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 268
+      }
     },
     {
-      "path": "/src/dev/snippets/js/toCurreny",
+      "path": "/knowledge-base/src/dev/snippets/js/toCurreny",
       "title": "货币格式化",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 60
+      }
     },
     {
-      "path": "/src/dev/snippets/js/throttle",
+      "path": "/knowledge-base/src/dev/snippets/js/throttle",
       "title": "节流",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 170
+      }
     },
     {
-      "path": "/src/dev/snippets/js/singleton",
+      "path": "/knowledge-base/src/dev/snippets/js/singleton",
       "title": "手写单例模式",
       "tags": [
         "JavaScript",
         "代码片段",
         "设计模式"
-      ]
+      ],
+      "publishDate": "2023/12/14",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 123
+      }
     },
     {
-      "path": "/src/dev/snippets/js/sharedRegExp",
+      "path": "/knowledge-base/src/dev/snippets/js/sharedRegExp",
       "title": "常见正则（未验证）",
       "tags": [
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": 9,
+        "words": "1.8k"
+      }
     },
     {
-      "path": "/src/dev/snippets/js/pubsub",
+      "path": "/knowledge-base/src/dev/snippets/js/pubsub",
       "title": "手写发布订阅模式",
       "tags": [
         "JavaScript",
         "代码片段",
         "设计模式"
-      ]
+      ],
+      "publishDate": "2024/03/21",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 90
+      }
     },
     {
-      "path": "/src/dev/snippets/js/parseParams",
+      "path": "/knowledge-base/src/dev/snippets/js/parseParams",
       "title": "解析URL的Params为对象",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 169
+      }
     },
     {
-      "path": "/src/dev/snippets/js/isType",
+      "path": "/knowledge-base/src/dev/snippets/js/isType",
       "title": "数据类型校验",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2023/01/11",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 100
+      }
     },
     {
-      "path": "/src/dev/snippets/js/imgLazyLoad",
+      "path": "/knowledge-base/src/dev/snippets/js/imgLazyLoad",
       "title": "<图片> 懒加载",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2020/09/21",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 165
+      }
     },
     {
-      "path": "/src/dev/snippets/js/getFileType",
+      "path": "/knowledge-base/src/dev/snippets/js/getFileType",
       "title": "<文件> 获取类型",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 86
+      }
     },
     {
-      "path": "/src/dev/snippets/js/genRandomColor",
+      "path": "/knowledge-base/src/dev/snippets/js/genRandomColor",
       "title": "生成随机颜色",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 88
+      }
     },
     {
-      "path": "/src/dev/snippets/js/downloadBase64Img",
+      "path": "/knowledge-base/src/dev/snippets/js/downloadBase64Img",
       "title": "<图片> 下载Base64格式图片",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 144
+      }
     },
     {
-      "path": "/src/dev/snippets/js/deepFreeze",
+      "path": "/knowledge-base/src/dev/snippets/js/deepFreeze",
       "title": "深冻结",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 62
+      }
     },
     {
-      "path": "/src/dev/snippets/js/debounce",
+      "path": "/knowledge-base/src/dev/snippets/js/debounce",
       "title": "防抖",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2020/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 228
+      }
     },
     {
-      "path": "/src/dev/snippets/js/daysBetweenDates",
+      "path": "/knowledge-base/src/dev/snippets/js/daysBetweenDates",
       "title": "<日期> 间隔天数",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 102
+      }
     },
     {
-      "path": "/src/dev/snippets/js/clipImage",
+      "path": "/knowledge-base/src/dev/snippets/js/clipImage",
       "title": "<图片> 剪裁",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 152
+      }
     },
     {
-      "path": "/src/dev/snippets/js/bytesToSize",
+      "path": "/knowledge-base/src/dev/snippets/js/bytesToSize",
       "title": "<文件> 格式化尺寸",
       "tags": [
         "JavaScript",
         "代码片段",
         "工具方法"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 92
+      }
     },
     {
-      "path": "/src/dev/snippets/css/text-overflow",
+      "path": "/knowledge-base/src/dev/snippets/css/text-overflow",
       "title": "文本溢出",
       "tags": [
         "UI",
         "代码片段"
-      ]
+      ],
+      "publishDate": "2020/06/23",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 50
+      }
     },
     {
-      "path": "/src/dev/snippets/css/shadow",
-      "title": "Untitled",
+      "path": "/knowledge-base/src/dev/snippets/css/shadow",
+      "title": "阴影",
       "tags": [
         "UI",
         "代码片段"
-      ]
+      ],
+      "publishDate": "2021/08/08",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 87
+      }
     },
     {
-      "path": "/src/dev/snippets/css/scrollbar",
+      "path": "/knowledge-base/src/dev/snippets/css/scrollbar",
       "title": "滚动条样式",
       "tags": [
         "UI",
         "代码片段"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 170
+      }
     },
     {
-      "path": "/src/dev/snippets/css/hide-number-input-btn",
+      "path": "/knowledge-base/src/dev/snippets/css/hide-number-input-btn",
       "title": "隐藏数字输入框按钮",
       "tags": [
         "UI",
         "代码片段"
-      ]
+      ],
+      "publishDate": "2022/04/22",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 42
+      }
     },
     {
-      "path": "/src/dev/react/test-in-react",
+      "path": "/knowledge-base/src/dev/react/test-in-react",
       "title": "React 中的测试",
       "tags": [
         "React",
         "Test",
         "Jest"
-      ]
+      ],
+      "publishDate": "2021/08/15",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 828
+      }
     },
     {
-      "path": "/src/dev/base/js-data-type",
+      "path": "/knowledge-base/src/dev/base/js-data-type",
       "title": "数据类型",
       "tags": [
         "JavaScript"
-      ]
+      ],
+      "publishDate": "2023/08/24",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 224
+      }
     },
     {
-      "path": "/src/dev/base/deep-clone",
+      "path": "/knowledge-base/src/dev/base/deep-clone",
       "title": "深/浅拷贝",
       "tags": [
         "JavaScript"
-      ]
+      ],
+      "publishDate": "2021/09/21",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 180
+      }
     },
     {
-      "path": "/src/dev/base/css/responsive-self-adopt",
+      "path": "/knowledge-base/src/dev/base/css/responsive-self-adopt",
       "title": "自适应和响应式布局",
       "tags": [
         "概念",
         "UI"
-      ]
+      ],
+      "publishDate": "2021/8/25",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 507
+      }
     },
     {
-      "path": "/src/dev/base/css/box",
+      "path": "/knowledge-base/src/dev/base/css/box",
       "title": "盒模型",
       "tags": [
         "UI"
-      ]
+      ],
+      "publishDate": "2021/07/11",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 12
+      }
     },
     {
-      "path": "/src/dev/base/css/bfc",
+      "path": "/knowledge-base/src/dev/base/css/bfc",
       "title": "BFC",
       "tags": [
         "UI"
-      ]
+      ],
+      "publishDate": "2021/07/11",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 127
+      }
     },
     {
-      "path": "/src/dev/advanced/typora-theme-github",
+      "path": "/knowledge-base/src/dev/advanced/typora-theme-github",
       "title": "Typora Theme Github",
       "tags": [
         "配置",
         "工具"
-      ]
+      ],
+      "publishDate": "2021/01/30",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": 892
+      }
     },
     {
-      "path": "/src/dev/advanced/typeorm",
+      "path": "/knowledge-base/src/dev/advanced/typeorm",
       "title": "TypeORM",
       "tags": [
         "数据库"
-      ]
+      ],
+      "publishDate": "2022/04/20",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 811
+      }
     },
     {
-      "path": "/src/dev/advanced/solid",
+      "path": "/knowledge-base/src/dev/advanced/solid",
       "title": "SOLID原则",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2021/04/05",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.1k"
+      }
     },
     {
-      "path": "/src/dev/advanced/pure-function",
+      "path": "/knowledge-base/src/dev/advanced/pure-function",
       "title": "纯函数与副作用",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2021/8/25",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 398
+      }
     },
     {
-      "path": "/src/dev/advanced/node-persistence",
+      "path": "/knowledge-base/src/dev/advanced/node-persistence",
       "title": "NodeJS 持久化",
       "tags": [
         "Node"
-      ]
+      ],
+      "publishDate": "2022/04/19",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 308
+      }
     },
     {
-      "path": "/src/dev/advanced/mysql",
+      "path": "/knowledge-base/src/dev/advanced/mysql",
       "title": "MySQL",
       "tags": [
         "数据库"
-      ]
+      ],
+      "publishDate": "2022/04/20",
+      "timeToRead": {
+        "timeToRead": 25,
+        "words": "6.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/mvvm",
+      "path": "/knowledge-base/src/dev/advanced/mvvm",
       "title": "MVVM、MVP和MVC",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2023/12/06",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": "1.2k"
+      }
     },
     {
-      "path": "/src/dev/advanced/linux",
+      "path": "/knowledge-base/src/dev/advanced/linux",
       "title": "Linux",
       "tags": [
         "架构",
         "服务端"
-      ]
+      ],
+      "publishDate": "2022/04/05",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 732
+      }
     },
     {
-      "path": "/src/dev/advanced/git-commit-lint",
+      "path": "/knowledge-base/src/dev/advanced/git-commit-lint",
       "title": "Git Commit Lint",
       "tags": [
         "开发工具",
         "应用",
         "配置"
-      ]
+      ],
+      "publishDate": "2022/04/23",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 857
+      }
     },
     {
-      "path": "/src/dev/advanced/fw-library",
+      "path": "/knowledge-base/src/dev/advanced/fw-library",
       "title": "库？框架？",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2021/8/25",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 199
+      }
     },
     {
-      "path": "/src/dev/advanced/functional-program",
+      "path": "/knowledge-base/src/dev/advanced/functional-program",
       "title": "函数式编程",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2022/04/05",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.2k"
+      }
     },
     {
-      "path": "/src/dev/advanced/eslint",
+      "path": "/knowledge-base/src/dev/advanced/eslint",
       "title": "ESLint",
       "tags": [
         "开发工具",
         "应用",
         "配置"
-      ]
+      ],
+      "publishDate": "2022/03/19",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": "1.3k"
+      }
     },
     {
-      "path": "/src/dev/advanced/electron",
+      "path": "/knowledge-base/src/dev/advanced/electron",
       "title": "Electron",
       "tags": [
         "大前端"
-      ]
+      ],
+      "publishDate": "2022/03/19",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 357
+      }
     },
     {
-      "path": "/src/dev/advanced/dev-chrome-extension",
+      "path": "/knowledge-base/src/dev/advanced/dev-chrome-extension",
       "title": "Chrome插件开发",
       "tags": [
         "JavaScript",
         "应用"
-      ]
+      ],
+      "publishDate": "2023/02/17",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": "1.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/design-mode",
+      "path": "/knowledge-base/src/dev/advanced/design-mode",
       "title": "设计模式",
       "tags": [
         "概念"
-      ]
+      ],
+      "publishDate": "2021/04/05",
+      "timeToRead": {
+        "timeToRead": 5,
+        "words": "1.6k"
+      }
     },
     {
-      "path": "/src/dev/advanced/cicd",
+      "path": "/knowledge-base/src/dev/advanced/cicd",
       "title": "持续交付/持续部署",
       "tags": [
         "架构",
         "DevOps"
-      ]
+      ],
+      "publishDate": "2022/04/20",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 843
+      }
     },
     {
-      "path": "/src/dev/advanced/nest/nest-usage",
+      "path": "/knowledge-base/src/dev/advanced/nest/nest-usage",
       "title": "NestJS实战",
       "tags": [
         "Node",
         "Nest"
-      ]
+      ],
+      "publishDate": "2022/07/23",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 374
+      }
     },
     {
-      "path": "/src/dev/advanced/nest/nest-base",
+      "path": "/knowledge-base/src/dev/advanced/nest/nest-base",
       "title": "NestJS基础",
       "tags": [
         "Node",
         "Nest"
-      ]
+      ],
+      "publishDate": "2022/07/14",
+      "timeToRead": {
+        "timeToRead": 18,
+        "words": "4.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/nest/nest-advanced",
+      "path": "/knowledge-base/src/dev/advanced/nest/nest-advanced",
       "title": "NestJS进阶",
       "tags": [
         "Node",
         "Nest"
-      ]
+      ],
+      "publishDate": "2022/07/18",
+      "timeToRead": {
+        "timeToRead": 19,
+        "words": "4.2k"
+      }
     },
     {
-      "path": "/src/dev/advanced/docker/docker-usage",
+      "path": "/knowledge-base/src/dev/advanced/docker/docker-usage",
       "title": "Docker 实战",
       "tags": [
         "Docker"
-      ]
+      ],
+      "publishDate": "2022/04/18",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 123
+      }
     },
     {
-      "path": "/src/dev/advanced/docker/docker-compose",
+      "path": "/knowledge-base/src/dev/advanced/docker/docker-compose",
       "title": "Docker进阶",
       "tags": [
         "Docker"
-      ]
+      ],
+      "publishDate": "2022/04/15",
+      "timeToRead": {
+        "timeToRead": 11,
+        "words": "2.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/docker/docker-base",
+      "path": "/knowledge-base/src/dev/advanced/docker/docker-base",
       "title": "Docker 基础",
       "tags": [
         "Docker"
-      ]
+      ],
+      "publishDate": "2022/04/14",
+      "timeToRead": {
+        "timeToRead": 20,
+        "words": "4.7k"
+      }
     },
     {
-      "path": "/src/dev/advanced/builder/build-base",
+      "path": "/knowledge-base/src/dev/advanced/builder/build-base",
       "title": "构建工具",
       "tags": [
         "构建工具"
-      ]
+      ],
+      "publishDate": "2024/03/21",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 456
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/storage-extras",
+      "path": "/knowledge-base/src/dev/advanced/aws/storage-extras",
       "title": "Storage Extras",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/25",
+      "timeToRead": {
+        "timeToRead": 7,
+        "words": "2.2k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/s3",
+      "path": "/knowledge-base/src/dev/advanced/aws/s3",
       "title": "S3",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/05",
+      "timeToRead": {
+        "timeToRead": 12,
+        "words": "4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/route53",
+      "path": "/knowledge-base/src/dev/advanced/aws/route53",
       "title": "Route53",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/04",
+      "timeToRead": {
+        "timeToRead": 7,
+        "words": "2.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/rds",
+      "path": "/knowledge-base/src/dev/advanced/aws/rds",
       "title": "RDS",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/03",
+      "timeToRead": {
+        "timeToRead": 7,
+        "words": "2.5k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/integration-messaging",
+      "path": "/knowledge-base/src/dev/advanced/aws/integration-messaging",
       "title": "Integration & Messaging",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/26",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": "1.1k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/iam",
+      "path": "/knowledge-base/src/dev/advanced/aws/iam",
       "title": "IAM",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/02/28",
+      "timeToRead": {
+        "timeToRead": 6,
+        "words": "2k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/ec2",
+      "path": "/knowledge-base/src/dev/advanced/aws/ec2",
       "title": "EC2",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2023/03/01",
+      "timeToRead": {
+        "timeToRead": 20,
+        "words": "6.4k"
+      }
     },
     {
-      "path": "/src/dev/advanced/aws/cloud-front",
+      "path": "/knowledge-base/src/dev/advanced/aws/cloud-front",
       "title": "CloudFront",
       "tags": [
         "AWS"
-      ]
+      ],
+      "publishDate": "2022/03/22",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 972
+      }
     }
   ]
 }

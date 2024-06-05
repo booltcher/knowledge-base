@@ -6,6 +6,7 @@ import {
   transformerDirectives,
   transformerVariantGroup,
 } from 'unocss'
+import presetAnimations from 'unocss-preset-animations'
 
 export default defineConfig({
   rules: [
@@ -13,6 +14,7 @@ export default defineConfig({
     ["border-primary", { 'border': "1px solid #3451b2" }],
     ["color-primary", { 'color': "#3451b2" }],
     ["text-spacing", { 'letter-spacing': "2px" }],
+    ["text-overflow-ellipsis", { "text-overflow": "ellipsis", "white-space": "nowrap", "overflow": "hidden" }],
   ],
   presets: [
     presetUno(),
@@ -27,6 +29,7 @@ export default defineConfig({
         sans: 'Inter',
       },
     }),
+    presetAnimations()
   ],
   transformers: [
     transformerDirectives(),
