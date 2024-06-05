@@ -1,14 +1,13 @@
 ---
 outline: [2, 3]
-tags: 
+tags:
 	- English
-	- 未完成
 publishDate: 2023/12/24
 ---
+
 # 简写
 
 - **ISP**：internet service provider 网络服务提供商
-- 
 
 ## 编程&网络
 - **IP**: internet protocol 网络协议
