@@ -7,7 +7,7 @@ hero:
   image:
     src: /firmware.svg
     alt: Booltcher's knowledge base
-  tagline: 仙道贵生 无量度人
+  tagline: 风会在奔跑时吹来
   actions:
     - theme: brand
       text: 开始阅读

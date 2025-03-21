@@ -7,7 +7,7 @@
     "docs:build": "vitepress build docs && node generate-tags.js",
     "docs:preview": "vitepress preview docs",
     "gen:tags": "node generate-tags.js",
-    "docs:dev": "npm run generate-tags && vitepress dev docs"
+    "docs:dev": "npm run gen:tags && vitepress dev docs"
   },
   "repository": {
     "type": "git",

@@ -9,14 +9,14 @@ publishDate: 2023/08/24
 
 ## 基本类型
 
-- 原始类型，值类型
-- 存储的是值
+- 也叫原始类型或值类型
+- 栈内存中直接存值
 - 7种
 - `null` `undefined` `string` `number` `boolean` `bigInt` `symbol`
 
 ### Number
 
-[Number](https://www.notion.so/Number-55b28d16e2eb40de88dd9016eb74803a?pvs=21)
+[`Number`](/src/dev/base/primitive-type-number)
 
 ### String
 
@@ -30,7 +30,7 @@ String.fromCodePoint(97); // a 但是与fromCharCode有所不同
 
 ### Symbol
 
-[`Symbol`](https://www.notion.so/Symbol-ea8072633c344b0bb3c6e5b97550b204?pvs=21) 
+[`Symbol`](/src/dev/base/primitive-type-symbol)
 
 ### BigInt
 
@@ -46,6 +46,6 @@ String.fromCodePoint(97); // a 但是与fromCharCode有所不同
 ## 对象类型
 
 - 引用类型
-- 存储的是地址
-- 值存在堆里
+- 栈内存中存地址
+- 堆内存中存值
 - `Object` `Function` `Array` `Date` `Math` `RegExp` `Map` `Set`

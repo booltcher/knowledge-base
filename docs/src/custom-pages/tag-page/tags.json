@@ -17,7 +17,6 @@
     "Vue3",
     "Vuex",
     "代码片段",
-    "历史",
     "大前端",
     "娱乐",
     "工具",
@@ -130,96 +129,6 @@
       }
     },
     {
-      "path": "/knowledge-base/src/nocode/history/korean-war",
-      "title": "抗美援朝",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2019/07/13",
-      "timeToRead": {
-        "timeToRead": 3,
-        "words": "1k"
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/history/japan",
-      "title": "小日子",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2020/02/12",
-      "timeToRead": {
-        "timeToRead": 1,
-        "words": 411
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/history/india",
-      "title": "印度",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2021/05/02",
-      "timeToRead": {
-        "timeToRead": 4,
-        "words": "1.4k"
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/history/denmark-greenland",
-      "title": "丹麦与格陵兰岛",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2020/03/05",
-      "timeToRead": {
-        "timeToRead": "1",
-        "words": 323
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/history/chinese-ming",
-      "title": "大明",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2020/06/25",
-      "timeToRead": {
-        "timeToRead": 1,
-        "words": 662
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/history/america",
-      "title": "美国",
-      "tags": [
-        "历史",
-        "无代码"
-      ],
-      "publishDate": "2020/01/30",
-      "timeToRead": {
-        "timeToRead": 1,
-        "words": 387
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/fun/wood",
-      "title": "实木",
-      "tags": [
-        "无代码"
-      ],
-      "publishDate": "2024/01/06",
-      "timeToRead": {
-        "timeToRead": 1,
-        "words": 495
-      }
-    },
-    {
       "path": "/knowledge-base/src/nocode/fun/keyboard",
       "title": "客制化键盘",
       "tags": [
@@ -230,19 +139,6 @@
       "timeToRead": {
         "timeToRead": 2,
         "words": 779
-      }
-    },
-    {
-      "path": "/knowledge-base/src/nocode/fun/gundam",
-      "title": "高达",
-      "tags": [
-        "娱乐",
-        "无代码"
-      ],
-      "publishDate": "2024/01/06",
-      "timeToRead": {
-        "timeToRead": 2,
-        "words": 670
       }
     },
     {
@@ -274,13 +170,12 @@
       "path": "/knowledge-base/src/nocode/english/short",
       "title": "简写",
       "tags": [
-        "English",
-        "未完成"
+        "English"
       ],
       "publishDate": "2023/12/24",
       "timeToRead": {
         "timeToRead": "1",
-        "words": 158
+        "words": 155
       }
     },
     {
@@ -905,6 +800,114 @@
       }
     },
     {
+      "path": "/knowledge-base/src/dev/base/web-worker",
+      "title": "Web Worker",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 832
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/typeof",
+      "title": "类型判断",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2023/08/24",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 785
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/slice-string",
+      "title": "截取字符串",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": "1",
+        "words": 114
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/singel-thread-js",
+      "title": "JS的单线程",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 586
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/script-load-method",
+      "title": "`<script>`的加载方式",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 337
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/scope",
+      "title": "作用域",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 379
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/proto-chain",
+      "title": "原型与原型链",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 768
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/primitive-type-symbol",
+      "title": "`Symbol`",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2023/08/24",
+      "timeToRead": {
+        "timeToRead": 1,
+        "words": 529
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/primitive-type-number",
+      "title": "`Number`",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2023/08/24",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 735
+      }
+    },
+    {
       "path": "/knowledge-base/src/dev/base/js-data-type",
       "title": "数据类型",
       "tags": [
@@ -913,7 +916,43 @@
       "publishDate": "2023/08/24",
       "timeToRead": {
         "timeToRead": "1",
-        "words": 224
+        "words": 232
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/inherit",
+      "title": "继承",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 4,
+        "words": "1.2k"
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/gc",
+      "title": "垃圾回收",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 990
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/event-loop",
+      "title": "事件循环",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 3,
+        "words": 870
       }
     },
     {
@@ -926,6 +965,30 @@
       "timeToRead": {
         "timeToRead": "1",
         "words": 180
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/closure",
+      "title": "闭包",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 573
+      }
+    },
+    {
+      "path": "/knowledge-base/src/dev/base/bind-this",
+      "title": "`this`的绑定",
+      "tags": [
+        "JavaScript"
+      ],
+      "publishDate": "2020/05/26",
+      "timeToRead": {
+        "timeToRead": 2,
+        "words": 803
       }
     },
     {

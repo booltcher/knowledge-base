@@ -2,7 +2,6 @@
 const { checkedTags } = defineProps(["tags", "checkedTags"]);
 const emit = defineEmits(["clickItem"]);
 
-console.log(checkedTags);
 function onTagClick(tag) {
   emit("clickItem", tag);
 }
